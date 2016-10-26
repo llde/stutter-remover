@@ -1,0 +1,6 @@
+Created VS2012 project's files
+Avoid redefining Console_Print symbol. 
+Restored Synamic hashtable resizing
+
+TODO:
+Fix warnings
